@@ -1,0 +1,10 @@
+.sucsses{
+	color: green;
+}
+.error{
+	color: red;
+}
+
+.subscribe-form input{
+		width: 100%;
+}
